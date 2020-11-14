@@ -16,9 +16,9 @@ int main()
 
     one += " Oops!";
     cout << one << endl;
+
     two = "Sorry! That was ";
     three[0] = 'P';
-
     string four;
     four = two + three;
     cout << four << endl;
